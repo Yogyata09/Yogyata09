@@ -1,68 +1,110 @@
 
 <div align="center">
 
-# Hey there! 👋 I'm Yogyata
+# ✨ Yogyata
 
 ### B.Tech Student | Aspiring Software Developer
 
-*Learning, building, and growing one project at a time.* ✨
+*Learning, building, and creating something better every day.*
 
-<img src="https://komarev.com/ghpvc/?username=Yogyata09&style=for-the-badge&color=7C83FD" alt="Profile views"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=Yogyata09&style=for-the-badge&color=bc8cf2)](https://github.com/Yogyata09)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Yogyata09-181717?style=for-the-badge&logo=github)](https://github.com/Yogyata09)
+[![GitHub](https://img.shields.io/badge/GitHub-Yogyata09-171923?style=for-the-badge&logo=github)](https://github.com/Yogyata09)
 
 </div>
 
 ---
 
-## 🌸 About Me
+<table>
+<tr>
+<td width="55%" valign="top">
 
-Hello! I'm **Yogyata**, a B.Tech student at ABES Engineering College, exploring the world of software development.
+## 👩‍💻 About Me
+
+Hello! I'm **Yogyata**, a B.Tech student at ABES Engineering College, exploring programming and software development.
 
 - 🎓 Pursuing B.Tech
-- 💻 Exploring programming and web development
-- 🧩 Practising problem-solving and Data Structures
-- 🚀 Interested in building projects and participating in hackathons
+- 💻 Interested in programming and web development
+- 🧠 Practising problem-solving and DSA
+- 🚀 Exploring projects and hackathons
 - 🌱 Always learning something new
 
-## 🎯 What I Build
+</td>
+<td width="45%" valign="top">
 
-| Area | What I'm Exploring |
-|---|---|
-| 💻 Programming | C++ and Object-Oriented Programming |
-| 🌐 Web Development | HTML, CSS, JavaScript and React |
-| 🧠 Problem Solving | Data Structures and Algorithms |
-| 🚀 Projects | Practical applications and hackathon ideas |
+## 🚀 What I Build
+
+**💻 Programming**
+
+C++ and Object-Oriented Programming
+
+**🌐 Web Development**
+
+HTML, CSS, JavaScript and React
+
+**🧩 Problem Solving**
+
+Data Structures and Algorithms
+
+**🛠️ Projects**
+
+Practical applications and experiments
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,git,github,vscode" alt="Technology icons"/>
-</p>
-
-## 🚀 My Projects
-
-Explore my repositories and coding work:
-
 <div align="center">
 
-[![Repositories](https://img.shields.io/badge/Explore-My_Repositories-7C83FD?style=for-the-badge&logo=github)](https://github.com/Yogyata09?tab=repositories)
+[![Skills](https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
-I'm continuously working on assignments, experiments and projects as I learn new technologies.
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## 📂 Featured Projects
+
+### 💻 My GitHub Projects
+
+Explore my repositories, coding practice, assignments and projects.
+
+[![Explore Repositories](https://img.shields.io/badge/Explore-My_Repositories-bc8cf2?style=for-the-badge&logo=github)](https://github.com/Yogyata09?tab=repositories)
+
+</td>
+<td width="40%" valign="top">
+
+## 🎯 Current Focus
+
+- C++ and OOP
+- Data Structures
+- Web development
+- Project building
+
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yogyata09&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<a href="https://github.com/Yogyata09">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Yogyata09&show_icons=true&theme=tokyonight&hide_border=true&title_color=bc8cf2&icon_color=bc8cf2" alt="GitHub Stats"/>
+</a>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogyata09&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+<a href="https://github.com/Yogyata09">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogyata09&layout=compact&theme=tokyonight&hide_border=true&title_color=bc8cf2" alt="Top Languages"/>
+</a>
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Yogyata09&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<a href="https://streak-stats.demolab.com/?user=Yogyata09&theme=tokyonight&hide_border=true">
+<img width="70%" src="https://streak-stats.demolab.com?user=Yogyata09&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</a>
 
 </div>
 
@@ -70,24 +112,28 @@ I'm continuously working on assignments, experiments and projects as I learn new
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yogyata09&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yogyata09&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Yogyata09)
 
 </div>
 
-## 🌱 Currently Focusing On
+## 🌱 Currently Learning
 
-- 📚 Strengthening C++ and OOP fundamentals
-- 🧠 Improving Data Structures and Algorithms
-- 🌐 Developing web development skills
-- 🏆 Learning through projects and hackathons
+<table>
+<tr>
+<td align="center" width="25%">💻<br/><b>C++</b></td>
+<td align="center" width="25%">🧠<br/><b>DSA</b></td>
+<td align="center" width="25%">🌐<br/><b>Web Dev</b></td>
+<td align="center" width="25%">🚀<br/><b>Projects</b></td>
+</tr>
+</table>
 
-## 💫 My Learning Philosophy
+## 💜 My Learning Philosophy
 
 <div align="center">
 
-**Learn → Build → Debug → Improve → Repeat**
+### Learn → Build → Debug → Improve → Repeat
 
-Every project is a new opportunity to learn something better.
+*Every project is a new opportunity to grow.*
 
 </div>
 
@@ -95,8 +141,10 @@ Every project is a new opportunity to learn something better.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github)](https://github.com/Yogyata09)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_My_Journey-171923?style=for-the-badge&logo=github)](https://github.com/Yogyata09)
 
-*Thanks for visiting my profile! Keep learning and keep building.* 💜
+### ✨ Thanks for visiting my profile!
+
+*Keep learning · Keep building · Keep growing*
 
 </div>
