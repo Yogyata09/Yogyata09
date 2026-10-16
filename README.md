@@ -1,76 +1,57 @@
-# Hello 👋, I'm Yogyata 
 
-## 🎓 About Me
-- 🎓 B.Tech Student (Computer Science & Engineering)
-- 💻 Passionate about Web Development and Programming
-- 🌱 Currently improving my skills in Frontend Development and Data Structures & Algorithms
-- 🚀 Always eager to learn new technologies and build projects
+<div align="center">
 
----
+# Hi 👋, I'm Yogyata
 
-## 🛠️ Skills
+### B.Tech Student | Aspiring Software Developer
 
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- C++
-- Git & GitHub
+Learning, building and growing one project at a time ✨
+
+![Profile Views](https://komarev.com/ghpvc/?username=Yogyata09&color=blueviolet&style=for-the-badge)
+
+</div>
 
 ---
 
-## 📚 Education
+## 🌟 About Me
 
-**Bachelor of Technology (B.Tech)**  
-Computer Science & Engineering (CSE)
+- 🎓 B.Tech student at ABES Engineering College
+- 💻 Interested in programming and web development
+- 🌱 Currently learning Data Structures and Algorithms
+- 🚀 Building projects and improving my coding skills
 
-**Overall SGPA (1st Year):** **8.57**
+## 🛠️ Languages and Tools
 
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,git,github,vscode" />
+</p>
 
-## 🏆 Certifications
+## 📊 GitHub Statistics
 
-- ✅ HackerRank Certificate
-- ✅ React JS Beginner Certification
-- ✅ HTML Certification
+<div align="center">
 
----
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Yogyata09&show_icons=true&theme=tokyonight&hide_border=true" />
 
-## 💻 Coding Profiles
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogyata09&layout=compact&theme=tokyonight&hide_border=true" />
 
-- 🔸 LeetCode: https://leetcode.com/u/Yogyata01/
-- 🔸 HackerRank: https://www.hackerrank.com/profile/Yogyata01
-- 🔸 CodeChef: https://www.codechef.com/users/yogyata
+<img width="70%" src="https://streak-stats.demolab.com?user=Yogyata09&theme=tokyonight&hide_border=true" />
 
----
+</div>
 
-## 🔗 Connect With Me
+## 🚀 My Projects
 
-- 💼 LinkedIn: https://www.linkedin.com/in/shakya-yogyata
+Explore my repositories and projects here:
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Projects-181717?style=for-the-badge&logo=github)](https://github.com/Yogyata09?tab=repositories)
 
-## 📊 GitHub Stats
+## 🤝 Connect With Me
 
-![Yogyata's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yogyata09&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogyata09&layout=compact&theme=tokyonight)
+[![GitHub](https://img.shields.io/badge/GitHub-Yogyata09-181717?style=for-the-badge&logo=github)](https://github.com/Yogyata09)
 
 ---
 
-## ✨ Goals
+<div align="center">
 
-- 🌱 Strengthen my Data Structures & Algorithms skills
-- 🚀 Build Full Stack Web Development projects
-- 💼 Secure a Software Development Internship
-- 📚 Learn advanced React and Backend Development
+### ✨ Thanks for visiting my profile! ✨
 
----
-
-## 💡 Quote
-
-> "Success doesn't come from what you do occasionally. It comes from what you do consistently."
-
----
-
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
+</div>
